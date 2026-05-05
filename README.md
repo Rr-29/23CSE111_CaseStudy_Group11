@@ -34,21 +34,21 @@ SAMPLE INPUT/OUTPUT
 --------------------
 Details of 2 users and admin are already set as default.
 ```
-###User1
+### User1
 username : user1
 password : 1234
 
-###User2
+### User2
 username : user2 
 password : 4321
 
-###Admin
+### Admin
 username : admin
 password : 0000
 ```
 
 ```
-###Login [User]
+### Login [User]
 Input
 Enter username : user2
 Enter PIN : 4321
@@ -59,7 +59,7 @@ Login successful! Welcome Rahul
 ```
 
 ```
-###Change  Pin
+### Change  Pin
 Input
 New Pin : <Enter any pin of choice>
 

@@ -1,5 +1,3 @@
-package projectTrial;
-
 import java.util.*; 
 import java.io.*;
 class Admin{

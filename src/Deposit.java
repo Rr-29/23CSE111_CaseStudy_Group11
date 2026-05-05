@@ -1,5 +1,3 @@
-package projectTrial;
-
 class Deposit implements Transaction {
 	String depositId;
 	Deposit(String id){

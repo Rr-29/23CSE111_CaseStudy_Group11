@@ -1,5 +1,3 @@
-package projectTrial;
-
 class UserBank {
 	Customer customer;
 	Account account;

@@ -1,5 +1,3 @@
-package projectTrial;
-
 class Customer{
 	String name;
 	String customerId;

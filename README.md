@@ -21,16 +21,19 @@ ________________________________________________________________________________
 
 HOW TO RUN THE CODE
 --------------------
+```
 Step 1. Download this repository.
 Step 2. Open terminal in the project folder.
-Step 3. Type     java src/*.java
+Step 3. Type     javac src/*.java
 Step 4. Type     java -cp src Main
+```
 __________________________________________________________________________________________________________________________________________________________________
 
 
 SAMPLE INPUT/OUTPUT
 --------------------
 Details of 2 users and admin are already set as default.
+```
 <u>User1</u>
 username : user1
 password : 1234
@@ -42,8 +45,9 @@ password : 4321
 <u>Admin</u>
 username : admin
 password : 0000
+```
 
-
+```
 <u>Login [User]</u>
 Input
 Enter username : user2
@@ -52,14 +56,16 @@ Enter PIN : 4321
 Output
 Login successful! Welcome Rahul
 1.Deposit 2.Withdrawal 3.Balance 4.History 5.Change PIN 6.Logout
+```
 
-
+```
 <u>Change  Pin</u>
 Input
 New Pin : <Enter any pin of choice>
 
 Output
 PIN updated successfully
+```
 __________________________________________________________________________________________________________________________________________________________________
 
 

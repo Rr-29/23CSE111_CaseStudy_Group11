@@ -1,5 +1,3 @@
-package projectTrial;
-
  class Security {
 	String username;
 	int password;

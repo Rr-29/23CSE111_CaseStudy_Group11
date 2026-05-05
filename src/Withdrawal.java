@@ -1,5 +1,3 @@
-package projectTrial;
-
 class Withdrawal implements Transaction{
 	String withdrawalId;
 	Withdrawal(String id){
